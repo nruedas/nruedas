@@ -11,54 +11,64 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Bachelor in Statistics**, National University of Colombia — Bogotá  
+  * *2024 – Present*  
+  * Focus: Financial Statistics, Data Analysis, Risk Theory, Statistical Inference, Quantitative Finance, Risk Modeling  
 
-Work experience
+* **High School Diploma**, Centro Cultural y Educativo Español Reyes Católicos  
+  * *Graduated 2024*  
+  * Academic focus: Mathematics and Sciences
+
+
+Projects
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Portfolio Optimization in R – Colombian Equities**  
+  * Built an optimized portfolio using daily log returns.  
+  * Computed covariance matrices, efficient frontier, GMVP, and Sharpe ratios.  
+  * Automated pipelines for data cleaning, return estimation, and visualization.  
+  * Applied model to 15+ assets with solid diversification results.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Market Structure Analysis using MST – Colombian Stocks**  
+  * Constructed a Minimum Spanning Tree from correlation matrices.  
+  * Identified sector clusters and key central nodes in the network.  
+  * Studied systemic co-movement and risk propagation channels.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Spatial Network Analysis & Recommender System – Bogotá Bookstores**  
+  * Analyzed a network of 60 bookstores using Python & NetworkX.  
+  * Found 5 geographic communities and central nodes.  
+  * Built a content-based recommender with cosine similarity.  
+  * Tools: NetworkX, Pandas, Scikit-learn, Matplotlib.
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming:** R, Python  
+* **Finance:** Portfolio Optimization, Markowitz Models, Risk Analysis  
+* **Statistics:** Descriptive Analysis, Regression, Probability  
+* **Data:** Cleaning, Visualization, Time Series, Correlation Analysis  
+* **Tools:** Excel, Git, LaTeX, RStudio  
+* **Other:** Strategic mindset, strong communication, problem-solving  
 
-Publications
+
+Finance Training
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Attended finance & quantitative analysis talks (2024–2025)  
+* Workshops in:
+  * Stock valuation  
+  * Quantitative Python  
+  * Investment strategies  
+
+
+Languages
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Spanish — Native  
+* English — Professional (C1/C2)  
+* French — Basic (A1)  
+* Japanese — Basic (A1)
+
+
+Contact
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+📍 Bogotá, Colombia  
+📩 nruedas@unal.edu.co  
+🔗 [linkedin.com/in/nicolasruedass](https://www.linkedin.com/in/nicolasruedass)
